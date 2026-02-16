@@ -423,14 +423,6 @@ The system is designed for high performance:
 - Regularly update retention policies
 - Monitor provider health and errors
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Specify contribution guidelines here]
-
 ## Support
 
-For issues, questions, or contributions, please [specify contact method or issue tracker].
+For issues, questions, or contributions, please contact me via likedin mihail-mogildea.
